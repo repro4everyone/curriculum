@@ -1,7 +1,5 @@
-# curriculum
-A place to manage and collaborate on Reproducibility for Everyone curriculm. Created as a sandbox for the eLife Sprint 2021!
-
 ## Welcome, eLife Sprint friends!
+This is a place to manage and collaborate on Reproducibility for Everyone curriculm. Created as a sandbox for the eLife Sprint 2021!
 
 # How to contribute
 - All contributions must follow the [Reproducibility for Everyone Community Participation Guidelines. Take a look!](https://www.repro4everyone.org/guidelines)
