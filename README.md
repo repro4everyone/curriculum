@@ -11,7 +11,6 @@ Not sure where to start? Want to meet others with the same interest? Have some e
 - October 4 from 11am-12pm Eastern Time [Register here](https://us02web.zoom.us/meeting/register/tZYld-6rpjoqHdIw2yDQY-g4kROaB_zrxBKA)
 - October 4 from 4pm-5pm Eastern Time [Register here](https://us02web.zoom.us/meeting/register/tZ0uc-yurD0pGdfIYSW2qOggU0FQH3Qew6Bp)
 - October 5 from 11am-12pm Eastern Time [Register here](https://us02web.zoom.us/meeting/register/tZIlcu-przgrGNPFdmaYIbaoNRsRHHwBrISP)
-- October 5 from 4pm-5pm Eastern Time [Register here](https://us02web.zoom.us/meeting/register/tZIqdeGpqTIiGtcIvbDdpQIZ6lRy-4RdGuJi)
 
 # Important links:
 - [Reproducibility for Everyone Website](https://www.repro4everyone.org/)
